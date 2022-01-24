@@ -1,0 +1,27 @@
+debug + intellij 
+debug 
+// create new package 
+// alt insert calculator, 
+// debug "calculator.main()"
+
+package br.com.bio; 
+import br.com.bio.model.Cat;
+
+public class Calculator {
+    public static void main(String[] args) {     //enter main or psvm
+        Scanner scan = new Scanne( )
+    }
+
+    public static int add(int a, int b) {
+        return a + b   // select cntr d to duplicate
+    }
+    public static int subtraction(int a, int b){  // select cntr d to duplicate this line 
+        return a + b; 
+    }
+    public static int multiply( int a, int b) {
+        return a + b; 
+    }
+    public station int divide ( int a, int b){
+        return a + b; 
+    } 
+}
